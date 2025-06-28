@@ -41,7 +41,7 @@ npm install
 npm run dev
 ```
 🔗 Live Demo
-Check out the live version: yourdomain.com
+Check out the live version: https://portfolio-website-six-plum-98.vercel.app/
 
 
 📬 Contact
